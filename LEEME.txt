@@ -1,0 +1,11 @@
+Para poder ejecutar correctamente el sistema se deben instalar las siguientes librerias:
+
+-Pillow (PIL): Para colocar las imagenes
+python -m pip install --upgrade pip
+python -m pip install --upgrade Pillow
+
+-Openpyxl: Para poder guardar en archivos Excel
+pip install openyxl
+
+
+-
