@@ -1,6 +1,13 @@
 # H5_Crud_Tkinter_Python
-Proyecto Final de Programacion II Hito 5
-Hecho con lo avanzado durante este semestre de la materia Prog II
+Proyecto Final de Programacion II Hito 5.
+
+Sistema de inventario para una Tienda/Pagina de Productos digitales.
+
+Con las funciones de Crud: Crear, Leer, Actualizar y Borrar
+![1_gjA78w2_Q8lSNZAnTMScqA](https://user-images.githubusercontent.com/110436984/205428179-b01f30bb-fa22-4973-9921-56481d2d538d.png)
+
+
+Hecho con lo avanzado durante el semestre de la materia Prog II.
 
 Para usar el archivo/Codigo sin problemas, instalar las Librerias que se nombran en el archivo "LEEME.txt"
 
